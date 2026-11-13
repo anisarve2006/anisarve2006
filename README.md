@@ -1,99 +1,170 @@
 <div align="center">
 
-# Hi, I'm Anirudh Sarve 👋
-### Systems Software • Edge AI & Computer Vision • Distributed Systems
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-anirudh--sarve.me-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anirudh-sarve.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-sarve-2130a724a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anisarve2006@gmail.com)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+VIT+Mumbai;Lead+Architect+%40+ISRO+SIH+2026;Building+Real-Time+State-Estimation+%26+Edge+AI;Optimizing+Low-Latency+C%2B%2B+%26+Distributed+Systems" alt="Typing SVG" />
-</p>
-
-</div>
-
----
-
-### ⚡ Engineering Profile
-
-- 🎓 **Computer Engineering Student** at Vidyalankar Institute of Technology (VIT), Mumbai *(CGPA: 8.90 / 10.0)*.
-- 🚀 **Lead AI Architect for ISRO (Problem Statement 26168)** at Smart India Hackathon: Developed real-time inertial dead-reckoning navigation running a **15-State Error-State Kalman Filter (ESKF) in C++** during total GNSS/GPS blackouts.
-- 🛠️ **Systems & Infrastructure**: Architected client-side edge neural runtimes using U²-Net via **WebAssembly / WebGL** (<3.5s latency, $0 server GPU egress cost) and atomic distributed locking mechanisms via Upstash Redis (`SET NX EX`).
-- 🤖 **Open Source Author**: Built **AutoApply Agent**, a zero-cost autonomous job application pipeline and responsive Resume Portal.
-
----
-
-### 🛠️ Tech Stack & Engineering Toolkit
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `C++ (17/20)` `Python` `TypeScript` `JavaScript (Node.js)` `SQL` `Go` |
-| **Systems & Cloud** | `Linux / POSIX` `WebAssembly (WASM)` `WebGL` `Docker` `WebSockets` `gRPC` `AWS` `GCP` |
-| **AI / ML & Vision** | `PyTorch` `ONNX Runtime` `CUDA / TensorRT` `OpenCV` `15-State ESKF` `Sensor Fusion` `ResU-Net` |
-| **Data Infrastructure** | `PostgreSQL` `Upstash Redis (Atomic Locks)` `MongoDB (2dsphere)` `Qdrant Vector DB` `SQLite FTS5` |
-
----
-
-### 🏆 Featured Repositories & Engineering Systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛰️ <a href="https://github.com/anisarve2006/Dead-Reckoning-Model">Dead-Reckoning-Model (ISRO SIH)</a></h4>
-      <p>Real-time vehicular dead-reckoning engine running a 15-state Error-State Kalman Filter (ESKF) in C++ on embedded ARM architecture at sub-3ms latency during complete GPS denial.</p>
-      <p><code>C++17</code> <code>PyTorch</code> <code>15-State ESKF</code> <code>Sensor Fusion</code></p>
+<table border="0" style="border: none;">
+  <tr style="border: none;">
+    <td width="22%" align="center" style="border: none;">
+      <img src="assets/portrait_clean.png" alt="Anirudh Sarve" width="160" style="border-radius: 50%; border: 3px solid #059669;" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🏛️ <a href="https://github.com/anisarve2006/StandIQ">StandIQ — Standards Intelligence</a></h4>
-      <p>Neuro-symbolic 3-way hybrid retrieval engine (BM25 + Dense ONNX + Regex) and compliance audit pipeline evaluated across 19,400+ Bureau of Indian Standards (BIS) documents.</p>
-      <p><code>FastAPI</code> <code>SQLite FTS5</code> <code>ONNX</code> <code>PaddleOCR</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛰️ <a href="https://github.com/anisarve2006/Temporal-Cloud-Removal">Multimodal Optical-SAR Cloud Removal</a></h4>
-      <p>Generative ResU-Net translating SAR radar backscatter to optical imagery for 5.0m satellite images under severe cloud cover; reached 32.09 dB PSNR and 0.7167 SSIM.</p>
-      <p><code>PyTorch</code> <code>ResU-Net</code> <code>Cross-Attention</code> <code>Sentinel-1 SAR</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/anisarve2006/AutoApply_Agent">AutoApply Agent & Resume Portal</a></h4>
-      <p>Autonomous multi-platform job hunter with Playwright headless auto-fill, SerpApi Google Jobs integration, multi-engine logging, and custom responsive portal UI.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Playwright</code> <code>SerpApi</code> <code>TailwindCSS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/anisarve2006/custom-tcp-ip-stack">Custom TCP/IP Protocol Stack</a></h4>
-      <p>Low-level user-space networking protocol stack implementing Ethernet, ARP, IPv4, ICMP, and TCP state machines with raw socket bindings and packet dissection.</p>
-      <p><code>Systems Programming</code> <code>Networking</code> <code>Protocols</code> <code>Sockets</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>👓 <a href="https://github.com/anisarve2006/Vizion-Glasses">Vizion-Glasses Wearable AI</a></h4>
-      <p>Smart assistance edge vision wearable featuring on-device object detection, optical text-to-speech, and low-latency serial telemetry transmission.</p>
-      <p><code>Edge AI</code> <code>Computer Vision</code> <code>IoT</code> <code>Embedded</code></p>
+    <td width="78%" align="left" style="border: none; padding-left: 20px;">
+      <h1>Anirudh Sarve</h1>
+      <p><strong>Systems Software Engineer | Edge AI & Computer Vision | Distributed Systems</strong></p>
+      <p>Computer Engineering Undergraduate at Vidyalankar Institute of Technology, Mumbai (CGPA: 8.90 / 10.0)</p>
+      <p>
+        <a href="https://anirudh-sarve.me"><img src="https://img.shields.io/badge/Portfolio-anirudh--sarve.me-059669?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://www.linkedin.com/in/anirudh-sarve-2130a724a"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:anisarve2006@gmail.com"><img src="https://img.shields.io/badge/Email-anisarve2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=059669&center=true&vCenter=true&width=620&lines=Computer+Engineering+Undergraduate+%7C+VIT+Mumbai;Lead+AI+Architect+%7C+ISRO+Problem+Statement+26168;Real-Time+State+Estimation+%26+15-State+ESKF+in+C%2B%2B;Low-Latency+Inference+Runtimes+%26+Distributed+Systems" alt="Typing Banner" />
+</p>
+
+</div>
+
 ---
 
-### 📊 GitHub Activity & Metrics
+### Technical Specialization
+
+- **State Estimation & Sensor Fusion:** Real-time inertial navigation algorithms coupling high-rate IMU mechanization with a 15-state Error-State Kalman Filter (ESKF) running on embedded ARM platforms under total GNSS signal outages.
+- **Computer Vision & Generative AI:** Cross-modal optical and Synthetic Aperture Radar (SAR) translation networks with custom differentiable Spectral Angle Mapper (SAM) loss, reaching 32.09 dB PSNR on satellite imagery.
+- **Systems & Low-Latency Runtimes:** In-browser client-side neural inference via WebAssembly and WebGL (<3.5s latency, zero recurring server GPU egress cost), atomic distributed locks in Upstash Redis, and user-space TCP/IP protocol stacks.
+
+---
+
+### Engineering Toolkit
+
+| Domain | Frameworks, Languages, and Infrastructure |
+| :--- | :--- |
+| **Languages** | C++ (C++17/20), Python, TypeScript, JavaScript (Node.js), SQL, Go, Rust (Foundations) |
+| **Systems & Cloud** | Linux/POSIX, WebAssembly (WASM), WebGL, Docker, WebSockets, gRPC, Microservices, CI/CD, AWS, GCP |
+| **AI, Perception & Runtimes** | PyTorch, ONNX Runtime, CUDA / TensorRT, OpenCV, 15-State ESKF, Sensor Fusion, ResU-Net, Scikit-learn |
+| **Data & Storage** | PostgreSQL, Upstash Redis (Atomic Distributed Locks), MongoDB (2dsphere), Qdrant Vector DB, SQLite FTS5 |
+
+---
+
+### Key Engineering Systems & Architecture
+
+#### 1. Neural-Inertial Dead-Reckoning Engine with 15-State ESKF
+**Repository:** [github.com/anisarve2006/Dead-Reckoning-Model](https://github.com/anisarve2006/Dead-Reckoning-Model)  
+**Affiliation:** Lead AI Architect, Smart India Hackathon (ISRO Problem Statement 26168)  
+**Technologies:** C++17, PyTorch, 15-State ESKF, IMU Mechanization, ARM Cortex-A
+
+Real-time odometry and vehicular dead-reckoning navigation architecture designed to sustain localization accuracy during complete GNSS/GPS blackouts. Executes raw 10 Hz IMU kinematic integration coupled with zero-velocity updates (ZUPT) and non-holonomic velocity constraints in C++ at sub-3.0 ms CPU execution latency per cycle on embedded ECUs.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anisarve2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=94a3b8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisarve2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=94a3b8" height="155" alt="Top Languages" />
+  <img src="assets/eskf_inertial.jpg" alt="15-State ESKF Architecture" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
+</div>
+
+```mermaid
+flowchart LR
+    A["Raw 10Hz IMU<br/>(Acc / Gyro)"] --> B["Nominal State<br/>Mechanization"]
+    B --> C["15-State Error-State<br/>Kalman Filter (C++)"]
+    D["Kinematic Constraints<br/>(ZUPT & Non-Holonomic)"] --> C
+    C --> E["Corrected 3D State<br/>(Position, Velocity, Attitude)"]
+    E --> F["Zero-Latency State Reset<br/>& Covariance Update"]
+```
+
+---
+
+#### 2. Multimodal Optical-SAR Satellite Cloud Removal ResU-Net
+**Repository:** [github.com/anisarve2006/Temporal-Cloud-Removal](https://github.com/anisarve2006/Temporal-Cloud-Removal)  
+**Application:** ISRO Resourcesat-2/2A LISS-IV & Sentinel-1 C-Band Radar Fusion  
+**Technologies:** PyTorch, ResU-Net, Cross-Modal Attention, Sentinel-1 SAR C-Band
+
+Deep generative reconstruction network bridging radar backscatter and high-resolution (5.0 m) optical spectral bands over persistently cloud-covered terrain. Engineered with a custom differentiable Spectral Angle Mapper (SAM) loss function, achieving **32.09 dB PSNR**, **0.7167 SSIM**, and a strict **6.17 deg SAM spectral angle** on validation scenes across the Assam river corridor.
+
+<div align="center">
+  <img src="assets/optical_sar.jpg" alt="Multimodal Optical-SAR Fusion Architecture" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
+</div>
+
+```mermaid
+flowchart LR
+    S["Sentinel-1 SAR C-Band<br/>(VV/VH Polarization)"] --> R["Radar Feature Encoder<br/>(Noise Despeckling)"]
+    L["LISS-IV Optical Bands<br/>(Cloud-Occluded)"] --> O["Optical Feature Encoder<br/>(Spectral Extraction)"]
+    R --> M["Cross-Modal Attention<br/>Fusion Bottleneck"]
+    O --> M
+    M --> D["ResU-Net Decoder &<br/>Skip Connections"]
+    D --> SAM["Differentiable SAM Loss<br/>+ L1 Reconstruction"]
+    SAM --> OUT["Reconstructed 5.0m<br/>Cloud-Free Optical Image"]
+```
+
+---
+
+#### 3. ProtoLink: Custom User-Space TCP/IP Protocol Stack & Dissector
+**Repository:** [github.com/anisarve2006/custom-tcp-ip-stack](https://github.com/anisarve2006/custom-tcp-ip-stack)  
+**Technologies:** C++, Systems Programming, Raw Sockets, Network Protocols, State Machines
+
+From-scratch implementation of core Internet protocol suite layers in user space. Manages Ethernet frame encapsulation, ARP resolution tables, IPv4 fragmentation and reassembly, ICMP error handlers, and sliding-window TCP transmission state machines with custom packet inspection and transmission visualization.
+
+<div align="center">
+  <img src="assets/protolink.jpg" alt="ProtoLink Network Protocol Stack" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
+</div>
+
+---
+
+#### 4. NAViGO: Autonomous Mobile Robot Perception & Visual SLAM System
+**Repository:** [github.com/anisarve2006/Dead-Reckoning-Model](https://github.com/anisarve2006/Dead-Reckoning-Model)  
+**Technologies:** C++, ROS 2, OpenCV, Point Cloud Processing, Embedded Computing
+
+Perception and local navigation stack for autonomous rovers operating across unstructured environments. Integrates real-time feature extraction, visual odometry, local costmap generation, and obstacle avoidance pathways calculated via dynamic window trajectory evaluation.
+
+<div align="center">
+  <img src="assets/navigo.jpg" alt="NAViGO Autonomous Navigation Architecture" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
+</div>
+
+---
+
+#### 5. StandIQ: Autonomous Indian Standards Intelligence & Compliance Engine
+**Repository:** [github.com/anisarve2006/StandIQ](https://github.com/anisarve2006/StandIQ)  
+**Affiliation:** Smart India Hackathon (SIH 2026 Problem Statement 108)  
+**Technologies:** FastAPI, SQLite FTS5, ONNX Runtime, PaddleOCR, Reciprocal Rank Fusion
+
+Neuro-symbolic compliance search engine built to parse, index, and cross-reference tender requirements against 19,423 Bureau of Indian Standards (BIS) regulatory documents. Combines BM25 lexical ranking, regex token filters, and dense vector embeddings via Reciprocal Rank Fusion, integrated with OCR extraction maintaining 99.28% recognition accuracy on multi-column tender schedules.
+
+<div align="center">
+  <img src="assets/vericlaim.jpg" alt="StandIQ Compliance Intelligence Engine" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
+</div>
+
+---
+
+#### 6. Client-Side Edge Neural Vision Runtime & In-Browser Matting Engine
+**Technologies:** WebAssembly (WASM), WebGL, U²-Net, ONNX Runtime Web, TypeScript
+
+Zero-backend client-side computer vision runtime processing high-precision photo-matting and human segmentation directly inside the user's browser in sub-3.5 seconds. Eliminates external cloud GPU inference latency and recurring egress costs through WebGL hardware acceleration.
+
+<div align="center">
+  <img src="assets/virtual_tryon.jpg" alt="Client-Side Edge Neural Vision Runtime" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
+</div>
+
+---
+
+#### 7. AutoApply Agent: Autonomous Job Discovery & Application Pipeline
+**Repository:** [github.com/anisarve2006/AutoApply_Agent](https://github.com/anisarve2006/AutoApply_Agent)  
+**Technologies:** Python, FastAPI, Playwright Headless, SerpApi Google Jobs, TailwindCSS
+
+Multi-engine autonomous career automation agent integrating 10 live discovery feeds (SerpApi, Greenhouse, Lever, Ashby, RemoteOK, Jobicy). Employs automated headless browser workflows for ATS form completion and features a custom-built responsive Resume Portal dashboard for application lifecycle auditing.
+
+---
+
+### GitHub Activity and Contribution Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anisarve2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=059669&icon_color=059669&text_color=94a3b8" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anisarve2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=059669&text_color=94a3b8" height="150" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisarve2006&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anisarve2006&theme=tokyonight&hide_border=true&background=0d1117&ring=059669&fire=059669&currStreakLabel=059669" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-  <b>Let's build together:</b> 
-  <a href="https://anirudh-sarve.me">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/anirudh-sarve-2130a724a">LinkedIn</a> • 
+  <strong>Contact and Professional Links:</strong> 
+  <a href="https://anirudh-sarve.me">Portfolio</a> | 
+  <a href="https://www.linkedin.com/in/anirudh-sarve-2130a724a">LinkedIn</a> | 
   <a href="mailto:anisarve2006@gmail.com">Email</a>
 </div>
