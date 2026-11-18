@@ -2,9 +2,6 @@
 
 <table border="0" style="border: none;">
   <tr style="border: none;">
-    <td width="22%" align="center" style="border: none;">
-      <img src="assets/portrait_clean.png" alt="Anirudh Sarve" width="160" style="border-radius: 50%; border: 3px solid #059669;" />
-    </td>
     <td width="78%" align="left" style="border: none; padding-left: 20px;">
       <h1>Anirudh Sarve</h1>
       <p><strong>Systems Software Engineer | Edge AI & Computer Vision | Distributed Systems</strong></p>
