@@ -51,9 +51,9 @@
 
 Real-time odometry and vehicular dead-reckoning navigation architecture designed to sustain localization accuracy during complete GNSS/GPS blackouts. Executes raw 10 Hz IMU kinematic integration coupled with zero-velocity updates (ZUPT) and non-holonomic velocity constraints in C++ at sub-3.0 ms CPU execution latency per cycle on embedded ECUs.
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/eskf_inertial.jpg" alt="15-State ESKF Architecture" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
-</div>
+</div> -->
 
 ```mermaid
 flowchart LR
@@ -73,9 +73,9 @@ flowchart LR
 
 Deep generative reconstruction network bridging radar backscatter and high-resolution (5.0 m) optical spectral bands over persistently cloud-covered terrain. Engineered with a custom differentiable Spectral Angle Mapper (SAM) loss function, achieving **32.09 dB PSNR**, **0.7167 SSIM**, and a strict **6.17 deg SAM spectral angle** on validation scenes across the Assam river corridor.
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/optical_sar.jpg" alt="Multimodal Optical-SAR Fusion Architecture" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
-</div>
+</div> -->
 
 ```mermaid
 flowchart LR
@@ -96,9 +96,9 @@ flowchart LR
 
 From-scratch implementation of core Internet protocol suite layers in user space. Manages Ethernet frame encapsulation, ARP resolution tables, IPv4 fragmentation and reassembly, ICMP error handlers, and sliding-window TCP transmission state machines with custom packet inspection and transmission visualization.
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/protolink.jpg" alt="ProtoLink Network Protocol Stack" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
-</div>
+</div> -->
 
 ---
 
@@ -108,9 +108,9 @@ From-scratch implementation of core Internet protocol suite layers in user space
 
 Perception and local navigation stack for autonomous rovers operating across unstructured environments. Integrates real-time feature extraction, visual odometry, local costmap generation, and obstacle avoidance pathways calculated via dynamic window trajectory evaluation.
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/navigo.jpg" alt="NAViGO Autonomous Navigation Architecture" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
-</div>
+</div> -->
 
 ---
 
@@ -121,9 +121,9 @@ Perception and local navigation stack for autonomous rovers operating across uns
 
 Neuro-symbolic compliance search engine built to parse, index, and cross-reference tender requirements against 19,423 Bureau of Indian Standards (BIS) regulatory documents. Combines BM25 lexical ranking, regex token filters, and dense vector embeddings via Reciprocal Rank Fusion, integrated with OCR extraction maintaining 99.28% recognition accuracy on multi-column tender schedules.
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/vericlaim.jpg" alt="StandIQ Compliance Intelligence Engine" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
-</div>
+</div> -->
 
 ---
 
@@ -132,9 +132,9 @@ Neuro-symbolic compliance search engine built to parse, index, and cross-referen
 
 Zero-backend client-side computer vision runtime processing high-precision photo-matting and human segmentation directly inside the user's browser in sub-3.5 seconds. Eliminates external cloud GPU inference latency and recurring egress costs through WebGL hardware acceleration.
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/virtual_tryon.jpg" alt="Client-Side Edge Neural Vision Runtime" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
-</div>
+</div> -->
 
 ---
 
