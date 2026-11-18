@@ -136,15 +136,6 @@ Zero-backend client-side computer vision runtime processing high-precision photo
   <img src="assets/virtual_tryon.jpg" alt="Client-Side Edge Neural Vision Runtime" width="850" style="border-radius: 8px; border: 1px solid #cbd5e1;" />
 </div> -->
 
----
-
-#### 7. AutoApply Agent: Autonomous Job Discovery & Application Pipeline
-**Repository:** [github.com/anisarve2006/AutoApply_Agent](https://github.com/anisarve2006/AutoApply_Agent)  
-**Technologies:** Python, FastAPI, Playwright Headless, SerpApi Google Jobs, TailwindCSS
-
-Multi-engine autonomous career automation agent integrating 10 live discovery feeds (SerpApi, Greenhouse, Lever, Ashby, RemoteOK, Jobicy). Employs automated headless browser workflows for ATS form completion and features a custom-built responsive Resume Portal dashboard for application lifecycle auditing.
-
----
 
 ### GitHub Activity and Contribution Metrics
 
